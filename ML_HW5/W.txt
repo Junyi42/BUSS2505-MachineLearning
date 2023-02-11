@@ -1,0 +1,6 @@
+For #features= 10, the statics t is: -0.031 under the condition of 18 degrees of freedom, the p-value is: 0.976. 
+For #features= 20, the statics t is: 0.322 under the condition of 18 degrees of freedom, the p-value is: 0.754. 
+For #features= 30, the statics t is: -0.991 under the condition of 18 degrees of freedom, the p-value is: 0.348. 
+For #features= 40, the statics t is: 1.78 under the condition of 18 degrees of freedom, the p-value is: 0.109. 
+For #features= 50, the statics t is: 4.794 under the condition of 18 degrees of freedom, the p-value is: 0.001. 
+For #features= 57, the statics t is: 1.918 under the condition of 18 degrees of freedom, the p-value is: 0.087. 

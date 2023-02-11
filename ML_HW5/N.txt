@@ -1,0 +1,8 @@
+For num_tree= 1, the statics t is: 6.631 under the condition of 18 degrees of freedom, the p-value is: 0.0. 
+For num_tree= 2, the statics t is: 6.94 under the condition of 18 degrees of freedom, the p-value is: 0.0. 
+For num_tree= 5, the statics t is: 5.579 under the condition of 18 degrees of freedom, the p-value is: 0.0. 
+For num_tree= 10, the statics t is: 5.68 under the condition of 18 degrees of freedom, the p-value is: 0.0. 
+For num_tree= 15, the statics t is: 4.202 under the condition of 18 degrees of freedom, the p-value is: 0.002. 
+For num_tree= 20, the statics t is: 6.614 under the condition of 18 degrees of freedom, the p-value is: 0.0. 
+For num_tree= 25, the statics t is: 4.066 under the condition of 18 degrees of freedom, the p-value is: 0.003. 
+For num_tree= 50, the statics t is: 4.812 under the condition of 18 degrees of freedom, the p-value is: 0.001. 

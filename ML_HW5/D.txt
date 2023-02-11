@@ -1,0 +1,6 @@
+
+For tree_depth= 1, the statics t is: 15.162 under the condition of 18 degrees of freedom, the p-value is: 0.0. 
+For tree_depth= 5, the statics t is: 4.456 under the condition of 18 degrees of freedom, the p-value is: 0.002. 
+For tree_depth= 10, the statics t is: 3.05 under the condition of 18 degrees of freedom, the p-value is: 0.014. 
+For tree_depth= 15, the statics t is: 1.499 under the condition of 18 degrees of freedom, the p-value is: 0.168. 
+For tree_depth= 20, the statics t is: 1.672 under the condition of 18 degrees of freedom, the p-value is: 0.129. 

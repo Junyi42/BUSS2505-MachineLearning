@@ -1,0 +1,35 @@
+Model 1: Test Accuracy on the training set: 0.909
+Model 1: Test Accuracy on the test set: 0.913
+
+Model 2 relu: Test Accuracy on the training set: 0.953
+Model 2 relu: Test Accuracy on the test set: 0.951
+
+Model 2 tanh: Test Accuracy on the training set: 0.945
+Model 2 tanh: Test Accuracy on the test set: 0.943
+
+Model 3: Test Accuracy on the training set: 0.996
+Model 3: Test Accuracy on the test set: 0.977
+
+Model 4: Test Accuracy on the training set: 0.997
+Model 4: Test Accuracy on the test set: 0.979
+
+Model 5: Test Accuracy on the training set: 0.994
+Model 5: Test Accuracy on the test set: 0.976
+
+Model 6: Test Accuracy on the training set: 0.998
+Model 6: Test Accuracy on the test set: 0.985
+
+Model 7 1e-05: Test Accuracy on the training set: 0.982
+Model 7 1e-05: Test Accuracy on the training set: 0.981
+Model 7 5e-05: Test Accuracy on the training set: 0.996
+Model 7 5e-05: Test Accuracy on the training set: 0.991
+Model 7 0.0001: Test Accuracy on the training set: 0.998
+Model 7 0.0001: Test Accuracy on the training set: 0.993
+Model 7 0.0005: Test Accuracy on the training set: 1.000
+Model 7 0.0005: Test Accuracy on the training set: 0.994
+Model 7 0.001: Test Accuracy on the training set: 0.999
+Model 7 0.001: Test Accuracy on the training set: 0.992
+Model 7 0.005: Test Accuracy on the training set: 0.985
+Model 7 0.005: Test Accuracy on the training set: 0.980
+Model 7 0.01: Test Accuracy on the training set: 0.112
+Model 7 0.01: Test Accuracy on the training set: 0.113
